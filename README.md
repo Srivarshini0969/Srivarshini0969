@@ -2,6 +2,17 @@
   <img src="Banner.png" alt="Varshini Banner">
 </div>
 
+<h3 align="center">GitHub Activity</h3>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Srivarshini0969&theme=github-dark" width="100%"/>
+<h3 align="center">Featured Projects</h3>
+
+<p align="center">
+  <a href="https://github.com/Srivarshini0969/SnapStudy">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Srivarshini0969&repo=SnapStudy&theme=dark" />
+  </a>
+</p>
+
 ###
 <h1 align="center">Hi 👋, I'm Varshini Yamala</h1>
 <h3 align="center">Aspiring Software Engineer | Java | MERN Stack | AI/ML Enthusiast</h3>
@@ -24,8 +35,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://linkedin.com/in/varshiniyamala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/varshiniyamala" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/gv2023003903/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gv2023003903/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varshiniyamala/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/varshiniyamala" height="30" width="40" /></a>
+<a href="https://leetcode.com/u/gv2023003903/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/gv2023003903/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
