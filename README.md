@@ -1,7 +1,9 @@
 <div align="center">
   <img src="Banner.png" alt="Varshini Banner">
 </div>
+<img src="https://raw.githubusercontent.com/Srivarshini0969/Srivarshini0969/snake-output/snake.svg" alt="Snake animation" />
 
+###
 <h1 align="center">Hi 👋, I'm Varshini Yamala</h1>
 <h3 align="center">Aspiring Software Engineer | Java | MERN Stack | AI/ML Enthusiast</h3>
 <img align="right" alt="Coding" width="250" src="https://imgs.search.brave.com/yeEKPL0p069YjQz_octsEmzw8A-YgqF8ijZl2K7qSNY/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzY1LzBj/LzM1LzY1MGMzNTc1/MzBhZmE1MmY1NTFk/ZmUwMmU4NmZlMjIy/LmpwZw"
