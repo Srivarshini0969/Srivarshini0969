@@ -1,7 +1,6 @@
 <div align="center">
   <img src="Banner.png" alt="Varshini Banner">
 </div>
-<img src="https://raw.githubusercontent.com/Srivarshini0969/Srivarshini0969/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 <h1 align="center">Hi 👋, I'm Varshini Yamala</h1>
